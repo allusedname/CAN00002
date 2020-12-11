@@ -37,7 +37,7 @@ Q: A red sentence that “DataCrawling Error” is shown on the screen on the pa
 A: The most common reason for this is Google blocked our program to avoid heavy traffic of google scholars. Just wait for a minute and try it again.
 
 Link of introduction video
-
+https://drive.google.com/file/d/1VgvZZ7jxFwlROZi7Vks3GneabaCMTdyT/view?usp=sharing
 
 Maintainers
 @Shiyu Chen
